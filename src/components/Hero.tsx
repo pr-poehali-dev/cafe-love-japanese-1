@@ -1,4 +1,6 @@
 
+import React from 'react';
+
 const Hero = () => {
   return (
     <section className="relative py-16 px-4 bg-gradient-to-br from-pink-50 via-accent/30 to-pink-100 overflow-hidden">
